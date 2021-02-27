@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViewStateSamples</string>
+    <string name="edit_text_hint">Input something here</string>
+    <string name="view_state_sample_button_text">View State Sample</string>
+    <string name="compound_view_state_sample_button_text">Compound View State Sample</string>
+</resources>
